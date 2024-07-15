@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    outline: none;
+}
+
+body {
+    background-color: #8A3296;
+    background-image: linear-gradient(to bottom right, #8A3296, #75EB00);
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin:20px auto;
+}
+
+main {
+    background-color: #FFFFFF;
+    width: 375px;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 44px 24px 24px;
+}
+
+label {
+    color: #777777;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+select, input {
+    background-color: #FFFFFF;
+    border: solid 1px #BBBBBB;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+    margin-bottom: 24px;
+    padding-left: 18px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #555555;
+    cursor: pointer;
+}
+
+.convert-button {
+    background: #8A3296;
+    border-radius: 6px;
+    width: 100%;
+    border: none;
+    height: 48px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.6;
+}
+
+section {
+    border: solid 1px #8A3296;
+    border-radius: 20px;
+    margin-top: 36px;
+    padding: 12px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.arrow-img{
+    margin: 15px 0;
+}
+
+.currency-box {
+    display: flex;
+    align-items: center;
+}
+
+.currency{
+    color:#777777;
+    font-size: 14px;
+    margin: 0 7px;
+}
+
+.currency-value, .currency-value-to-convert{
+    color: #555555;
+    font-weight: 700;
+    font-size: 20px;
+}
