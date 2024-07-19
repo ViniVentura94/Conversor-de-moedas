@@ -19,9 +19,9 @@
 # :construction_worker: Prévia
 
 <h3>DESKTOP</h3>
-<img align="center" src="https://github.com/ViniVentura94/wide-coverage-location/blob/main/img/Desktop-Wide-Coverage-Location.png?raw=true">
+<img align="center" src="https://github.com/ViniVentura94/Conversor-de-moedas/blob/main/assets/destop-conversor-de-moedas.png?raw=true" alt="print-desktop-site">
 <h3>MOBILE</h3>
-<img align="center" src="https://github.com/ViniVentura94/wide-coverage-location/blob/main/img/Mobile-Wide-Coverage-Location.png?raw=true">
+<img align="center" src="https://github.com/ViniVentura94/Conversor-de-moedas/blob/main/assets/mobile-conversor-de-moedas.png?raw=true" alt="print-mobile-site">
 
 <br>
 
