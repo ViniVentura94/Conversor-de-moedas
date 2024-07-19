@@ -9,25 +9,27 @@
 }
 
 body {
-    background-color: #8A3296;
-    background-image: linear-gradient(to bottom right, #8A3296, #75EB00);
-    height: 100%;
-    width: 100%;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(196, 22, 167, 0.702) 0%, rgba(242, 159, 5, 0) 63%, rgba(46, 1, 35, 0.638) 97%);
+    background: rgb(104, 4, 87);
+    background: radial-gradient(circle, rgb(194, 39, 199) 0%, rgba(9, 10, 10, 0.834) 91%);
+
 }
 
 .logo {
-    width: 300px;
-    height: 300px;
+    width: 325px;
+    height: 225px;
     display: block;
-    margin:20px auto;
+    margin-bottom: 15px;
+    border-radius: 20px;
 }
 
 main {
     background-color: #FFFFFF;
     width: 375px;
     border-radius: 20px;
-    margin: 0 auto;
-    padding: 44px 24px 24px;
+    margin: 20px auto;
+    padding:24px;
 }
 
 label {
@@ -51,7 +53,7 @@ select, input {
 }
 
 .convert-button {
-    background: #8A3296;
+    background: rgba(61, 8, 52, 0.702);
     border-radius: 6px;
     width: 100%;
     border: none;
@@ -71,7 +73,7 @@ button:active{
 }
 
 section {
-    border: solid 1px #8A3296;
+    border: solid 1px rgba(61, 8, 52, 0.702);
     border-radius: 20px;
     margin-top: 36px;
     padding: 12px;
