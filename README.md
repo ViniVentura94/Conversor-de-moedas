@@ -25,4 +25,4 @@
 
 <br>
 
-Feito com ♥ por Vinicius Ventura :wave: [Entre em contato!](https://www.linkedin.com/in/vinicius-ventura-50502a315/)
+Feito com ♥ por Vinicius Ventura :wave: [Entre em contato!](https://www.linkedin.com/in/vinicius-ventura-passos/)
